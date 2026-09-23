@@ -11,5 +11,5 @@ tr:nth-child(odd){
     background-color:cadetblue;
 }
 tr:nth-child(1){
-    background-color:white
+    background-color:white;
 }
